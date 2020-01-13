@@ -2,4 +2,4 @@ my github session
 Git is a distributed version control system 
 Git is free sofware distributed under th GPL
 Git has a mutable index called stage
-Git tracks changes
+Git tracks changes of files
